@@ -37,6 +37,14 @@ Again, the brand identity of the company is fanominal however, the content they 
 
 **I'm not quite sure how to structure all of the *Lonely Ghost* content in this file as the product range is fairly expansive and would include the incorporation of a mutlitude of images. While most of the pages referenced will be easily fixed, I do plan on cutting down the image use simply to make the rebranding of the site more concise and easier to manage.**
 
+## Purchased Domain
+
+sadiejcohen.com
+
+## Github Profile
+
+https://github.com/JulesSC/Web-Design-I.git
+
 [1]: https://morgvus.tumblr.com/
 [2]: http://www.justinsloane.com/
 [3]: https://visualjournal.it/
