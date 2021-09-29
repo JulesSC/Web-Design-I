@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/Assignment_One.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/Assignment_One.html",
+      "oF" : 0
+    },
     "\/Assignment_One.md" : {
       "cB" : 0,
       "cS" : 0,
@@ -56,7 +64,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 654609439.79284704,
-    "displayValue" : "Web-Design-I",
+    "displayValue" : "Web_Design_I",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-red",
     "iconImageWasSetByUser" : 0
