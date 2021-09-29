@@ -1,6 +1,6 @@
 # Assignment One
 
-The site I want to rebrand is one of my favorite clothing brands titled *Lonely Ghost*. The company has incredible brand vision but is unfortunately disorganized it's web presence. In which case, using their base categorization, images, and most likely color scheme, I plan to redesign their site into a more fitting, user friendly layout.
+The site I want to rebrand is one of my favorite clothing brands titled *Lonely Ghost*. The company has incredible brand vision but is unfortunately disorganized in it's web presence. In which case, using their base categorization, images, and most likely color scheme, I plan to redesign their site into a more fitting, user friendly layout.
 
 Beginning witht the inspiration:
 
@@ -33,7 +33,7 @@ Revised Sections:
 - Blog
 - Contact
 
-Again, the brand identity of the company is fanominal however, the content they produce is disorganized in a detrimental fashion. The *shop* tab needs to be categorized in terms of product, the *events* tab should be moved up in priority, the *blog* can follow and *music* can be replaced by contact. While the option to reccomend music is important adn will be encorporated elsewhere int he site, the option to contact the company needs to be front and center. Whether your a partner looking to reach out or a fan hoping to connect, having the companies contact information blatantly displayed is a neceessity.
+Again, the brand identity of the company is fanominal however, the content they produce is disorganized in a detrimental fashion. The *shop* tab needs to be categorized in terms of product, the *events* tab should be moved up in priority, the *blog* can follow and *music* can be replaced by contact. While the option to reccomend music is important adn will be encorporated elsewhere in the site, the option to contact the company needs to be front and center. Whether your a partner looking to reach out or a fan hoping to connect, having the companies contact information blatantly displayed is a neceessity.
 
 **I'm not quite sure how to structure all of the *Lonely Ghost* content in this file as the product range is fairly expansive and would include the incorporation of a mutlitude of images. While most of the pages referenced will be easily fixed, I do plan on cutting down the image use simply to make the rebranding of the site more concise and easier to manage.**
 
