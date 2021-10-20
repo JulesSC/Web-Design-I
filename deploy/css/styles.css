@@ -572,3 +572,42 @@ header > div button i {
 #shop > div #images ul #three3 {
   grid-area: three3;
 }
+
+/* =============
+    About
+============= */
+#about {
+  background-image: url("../assets/home/intro/background.jpg");
+  height: 406px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#about > div {
+  text-align: center;
+}
+#about > div h5 {
+  font-size: 0.875rem;
+  margin-bottom: 14px;
+}
+#about > div h3 {
+  font-size: 2.25rem;
+  margin-bottom: 38px;
+}
+#about > div #top {
+  margin-bottom: 18px;
+}
+#about > div p {
+  font-size: 0.625rem;
+  width: 300px;
+  margin-bottom: 5px;
+}
+#about > div button {
+  font-size: 0.625rem;
+  border: black 1px solid;
+  background-color: transparent;
+  margin-top: 20px;
+}
