@@ -516,3 +516,59 @@ header > div button i {
   font-size: 0.625rem;
   margin-top: 32px;
 }
+
+/* =============
+    Shop
+============= */
+#shop {
+  background-color: #EDE9E3;
+  height: 660px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#shop > div h1 {
+  text-align: center;
+}
+#shop > div #images {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#shop > div #images ul {
+  margin: 55px 0px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-areas: "one1 one2 one3" "two1 two2 two3" "three1 three2 three3";
+}
+#shop > div #images ul li a img {
+  width: 110px;
+  height: 110px;
+}
+#shop > div #images ul #one1 {
+  grid-area: one1;
+}
+#shop > div #images ul #one2 {
+  grid-area: one2;
+}
+#shop > div #images ul #one3 {
+  grid-area: one3;
+}
+#shop > div #images ul #two1 {
+  grid-area: two1;
+}
+#shop > div #images ul #two2 {
+  grid-area: two2;
+}
+#shop > div #images ul #two3 {
+  grid-area: two3;
+}
+#shop > div #images ul #three1 {
+  grid-area: three1;
+}
+#shop > div #images ul #three2 {
+  grid-area: three2;
+}
+#shop > div #images ul #three3 {
+  grid-area: three3;
+}

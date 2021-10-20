@@ -48,6 +48,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/assets\/home\/intro\/background.jpg" : {
+      "ft" : 16384,
+      "iS" : 703099,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/home\/intro\/background.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/assets\/home\/intro\/intro.jpg" : {
       "ft" : 16384,
       "iS" : 182485,
@@ -126,11 +139,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/home\/shop\/orange\/LGEcrewnecksORANGE_540x.png" : {
+    "\/deploy\/assets\/home\/shop\/orange\/orange_crewneck.png" : {
       "ft" : 32768,
       "iS" : 64104,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/home\/shop\/orange\/LGEcrewnecksORANGE_540x.png",
+      "oAP" : "\/deploy\/assets\/home\/shop\/orange\/orange_crewneck.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -139,11 +152,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/home\/shop\/orange\/LGEsweatsorange_540x.png" : {
+    "\/deploy\/assets\/home\/shop\/orange\/orange_sweatpants.png" : {
       "ft" : 32768,
       "iS" : 51590,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/home\/shop\/orange\/LGEsweatsorange_540x.png",
+      "oAP" : "\/deploy\/assets\/home\/shop\/orange\/orange_sweatpants.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -152,11 +165,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/home\/shop\/pink\/LGEhoodiepink_540x.png" : {
+    "\/deploy\/assets\/home\/shop\/pink\/pink_hoodie.png" : {
       "ft" : 32768,
       "iS" : 77335,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/home\/shop\/pink\/LGEhoodiepink_540x.png",
+      "oAP" : "\/deploy\/assets\/home\/shop\/pink\/pink_hoodie.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -165,11 +178,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/home\/shop\/pink\/LGEsweatshortspink_540x.png" : {
+    "\/deploy\/assets\/home\/shop\/pink\/pink_sweatshorts.png" : {
       "ft" : 32768,
       "iS" : 53669,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/home\/shop\/pink\/LGEsweatshortspink_540x.png",
+      "oAP" : "\/deploy\/assets\/home\/shop\/pink\/pink_sweatshorts.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -808,6 +821,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/sections\/_intro.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_shop.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_shop.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

@@ -1,0 +1,73 @@
+/* =============
+    Shop
+============= */
+
+#shop{
+    background-color: #EDE9E3;
+    height: 660px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    >div{
+        
+        h1{
+            text-align: center;
+            // font-size: 64px;
+            // width: 100%;
+            // overflow: hidden;
+        }
+    
+        #images{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            ul{
+                margin: 55px 0px;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                grid-template-areas: "one1 one2 one3"
+                "two1 two2 two3"
+                "three1 three2 three3";
+    
+                li{
+                    a{
+                        img{
+                            width: 110px;
+                            height: 110px;
+                        }
+                    }
+                }
+    
+                #one1{
+                    grid-area: one1;
+                }
+                #one2{
+                    grid-area: one2;
+                }
+                #one3{
+                    grid-area: one3;
+                }
+                #two1{
+                    grid-area: two1;
+                }
+                #two2{
+                    grid-area: two2;
+                }
+                #two3{
+                    grid-area: two3;
+                }
+                #three1{
+                    grid-area: three1;
+                }
+                #three2{
+                    grid-area: three2;
+                }
+                #three3{
+                    grid-area: three3;
+                }
+            }
+        }
+    }
+}
