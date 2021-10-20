@@ -35,12 +35,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/home\/hero\/243153058_434443448102799_545973554020453275_n.jpg" : {
+    "\/deploy\/assets\/home\/hero\/hero.jpg" : {
       "ft" : 16384,
       "iS" : 182196,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/home\/hero\/243153058_434443448102799_545973554020453275_n.jpg",
+      "oAP" : "\/deploy\/assets\/home\/hero\/hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -778,6 +778,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/layout\/_header.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_hero.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_hero.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

@@ -442,8 +442,8 @@ header {
 }
 header > div {
   display: grid;
-  grid-template-columns: 20% auto;
-  padding: 0px 16px;
+  grid-template-columns: 40% auto;
+  padding: 55px 16px;
 }
 header > div a {
   font-size: 0.875rem;
@@ -464,3 +464,29 @@ header > div button i {
 /* =============
     Footer
 ============= */
+/* =============
+    Header
+============= */
+#hero {
+  background-image: url("../assets/home/hero/hero.jpg");
+  height: 812px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  margin-top: -135px;
+}
+#hero > div {
+  padding: 125px 0px 45px 0px;
+  text-align: center;
+}
+#hero > div h4 {
+  padding-bottom: 435px;
+  font-size: 1.5rem;
+}
+#hero > div h6 {
+  padding-bottom: 15px;
+  font-size: 0.75rem;
+  color: white;
+}

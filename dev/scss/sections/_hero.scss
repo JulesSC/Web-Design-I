@@ -1,0 +1,32 @@
+/* =============
+    Header
+============= */
+
+#hero{
+    background-image: url("../assets/home/hero/hero.jpg");
+    height: 812px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: -135px;
+
+    >div{
+        padding: 125px 0px 45px 0px;
+        text-align: center;
+
+        h4{
+            padding-bottom: 435px;
+            font-size: rem-calc(24px);
+        }
+        h6{
+            padding-bottom: 15px;
+            font-size: rem-calc(12px);
+            color: white;
+        }
+        // i{
+        //     // height: 125px;
+        // }
+    }
+}
