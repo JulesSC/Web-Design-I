@@ -402,11 +402,6 @@ p {
   padding: 0;
 }
 
-h1 {
-  font-size: 6.25rem;
-  color: red;
-}
-
 /* =============
     Buttons
 ============= */
@@ -465,7 +460,7 @@ header > div button i {
     Footer
 ============= */
 /* =============
-    Header
+    Hero
 ============= */
 #hero {
   background-image: url("../assets/home/hero/hero.jpg");
@@ -489,4 +484,35 @@ header > div button i {
   padding-bottom: 15px;
   font-size: 0.75rem;
   color: white;
+}
+
+/* =============
+    Intro
+============= */
+#intro {
+  background-image: url("../assets/home/intro/background.jpg");
+  height: 406px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#intro > div {
+  text-align: center;
+}
+#intro > div img {
+  width: 214px;
+  height: 214px;
+}
+#intro > div h5 {
+  font-size: 0.875rem;
+  margin-top: -32px;
+  color: white;
+}
+#intro > div p {
+  width: 255px;
+  font-size: 0.625rem;
+  margin-top: 32px;
 }
