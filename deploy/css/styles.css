@@ -380,6 +380,15 @@ ul li {
   grid-area: grid-content;
 }
 
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  padding: 0px;
+  margin: 0px;
+}
+
 /* =============
     Typography
 ============= */
@@ -425,6 +434,33 @@ textarea {
 /* =============
     Header
 ============= */
+header {
+  background-color: transparent;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+}
+header > div {
+  display: grid;
+  grid-template-columns: 20% auto;
+  padding: 0px 16px;
+}
+header > div a {
+  font-size: 0.875rem;
+}
+header > div a:link,
+header > div a:visited {
+  color: #000;
+}
+header > div button {
+  margin-left: auto;
+  border: none;
+  background-color: transparent;
+}
+header > div button i {
+  font-size: 1.25rem;
+}
+
 /* =============
     Footer
 ============= */
