@@ -611,3 +611,44 @@ header > div button i {
   background-color: transparent;
   margin-top: 20px;
 }
+
+/* =============
+    Blog
+============= */
+#blog {
+  background-color: #3B3B3B;
+  height: 660px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#blog > div div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#blog > div div img {
+  width: 345px;
+  height: 345px;
+}
+#blog > div section {
+  padding: 20px 38px;
+  color: white;
+}
+#blog > div section h2 {
+  font-size: 3rem;
+}
+#blog > div section h2 span {
+  font-size: 2.5rem;
+}
+#blog > div section p {
+  margin: 20px 0px;
+  font-size: 0.625rem;
+}
+#blog > div section button {
+  border: solid white 1px;
+  background-color: transparent;
+  color: white;
+  font-size: 0.625rem;
+}

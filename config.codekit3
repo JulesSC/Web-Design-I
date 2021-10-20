@@ -22,15 +22,15 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/home\/blog\/218173310_517549156233462_3457131870198905232_n.jpg" : {
+    "\/deploy\/assets\/home\/blog\/blog.jpg" : {
       "ft" : 16384,
       "iS" : 199469,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/home\/blog\/218173310_517549156233462_3457131870198905232_n.jpg",
+      "oAP" : "\/deploy\/assets\/home\/blog\/blog.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -69,7 +69,7 @@
       "oAP" : "\/deploy\/assets\/home\/intro\/intro.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -806,6 +806,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/sections\/_about.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_blog.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_blog.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

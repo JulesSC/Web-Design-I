@@ -1,0 +1,45 @@
+/* =============
+    Blog
+============= */
+
+#blog{
+    background-color: #3B3B3B;
+    height: 660px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    >div{
+        div{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            img{
+                width: 345px;
+                height: 345px;
+            }
+        }
+        section{
+            padding: 20px 38px;
+            color: white;
+            h2{
+                font-size: rem-calc(48px);
+                span{
+                    font-size: rem-calc(40px);
+                }
+            }
+            p{
+                margin: 20px 0px;
+                font-size: rem-calc(10px);
+            }
+            button{
+                border: solid white 1px;
+                background-color: transparent;
+                color: white;
+                font-size: rem-calc(10px);
+            }
+        }
+    }
+
+}
