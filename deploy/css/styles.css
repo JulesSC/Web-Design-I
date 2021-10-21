@@ -652,3 +652,32 @@ header > div button i {
   color: white;
   font-size: 0.625rem;
 }
+
+/* =============
+    Contact
+============= */
+#contact {
+  background-color: #EDE9E3;
+  height: 406px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0px 62px;
+}
+#contact div h4 {
+  font-size: 1.5rem;
+}
+#contact div p {
+  margin: 27px 0px 50px 27px;
+  font-size: 0.625rem;
+}
+#contact div div input {
+  border: black solid 1px;
+  background-color: transparent;
+}
+#contact div div button {
+  border: none;
+  background-color: transparent;
+  font-size: 0.625rem;
+}
