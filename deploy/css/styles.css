@@ -459,6 +459,13 @@ header > div button i {
 /* =============
     Footer
 ============= */
+footer {
+  background-color: #EDE9E3;
+  border-top: black 1px solid;
+  display: flex;
+  align-items: center;
+}
+
 /* =============
     Hero
 ============= */
