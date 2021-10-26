@@ -555,54 +555,6 @@
       "oAP" : "\/deploy\/shop.html",
       "oF" : 0
     },
-    "\/dev\/content\/about.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/about.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/blog.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/blog.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/contact.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/contact.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/hero.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/hero.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/intro.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/intro.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/shop.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/shop.html",
-      "oF" : 0
-    },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -633,6 +585,54 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/scripts.html",
+      "oF" : 0
+    },
+    "\/dev\/home-content\/about.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/home-content\/about.html",
+      "oF" : 0
+    },
+    "\/dev\/home-content\/blog.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/home-content\/blog.html",
+      "oF" : 0
+    },
+    "\/dev\/home-content\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/home-content\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/home-content\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/home-content\/hero.html",
+      "oF" : 0
+    },
+    "\/dev\/home-content\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/home-content\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/home-content\/shop.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/home-content\/shop.html",
       "oF" : 0
     },
     "\/dev\/index.kit" : {
