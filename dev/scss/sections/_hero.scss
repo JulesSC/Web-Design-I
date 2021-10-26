@@ -19,6 +19,12 @@
         h4{
             padding-bottom: 435px;
             font-size: rem-calc(24px);
+            
+            @font-face {
+                font-family: 'PP Agrandirm';
+                src: url('PangramPangram.woff') format('truetype');
+                font-weight: 800;
+            }
         }
         h6{
             padding-bottom: 15px;

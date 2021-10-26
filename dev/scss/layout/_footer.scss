@@ -4,7 +4,34 @@
 
 footer{
     background-color: #EDE9E3;
-    border-top: black 1px solid;
     display: flex;
     align-items: center;
+    justify-content: center;
+
+    >div{
+        border-top: black 1px solid;
+        width: 90vw;
+        height: 54px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        ul{
+            width: 100%;
+            display: flex;
+            align-content: center;
+            justify-content: space-evenly;
+
+            li{
+                a{
+                    font-size: rem-calc(8);
+                }
+                
+                a:link,
+                a:visited {
+                    color: $black;
+                }
+            }
+        }
+    }
 }

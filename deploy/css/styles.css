@@ -461,9 +461,30 @@ header > div button i {
 ============= */
 footer {
   background-color: #EDE9E3;
-  border-top: black 1px solid;
   display: flex;
   align-items: center;
+  justify-content: center;
+}
+footer > div {
+  border-top: black 1px solid;
+  width: 90vw;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer > div ul {
+  width: 100%;
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+}
+footer > div ul li a {
+  font-size: 0.5rem;
+}
+footer > div ul li a:link,
+footer > div ul li a:visited {
+  color: #000;
 }
 
 /* =============
@@ -486,6 +507,13 @@ footer {
 #hero > div h4 {
   padding-bottom: 435px;
   font-size: 1.5rem;
+}
+@font-face {
+  #hero > div h4 {
+    font-family: "PP Agrandirm";
+    src: url("PangramPangram.woff") format("truetype");
+    font-weight: 800;
+  }
 }
 #hero > div h6 {
   padding-bottom: 15px;
