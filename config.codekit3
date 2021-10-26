@@ -217,11 +217,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Black\/LGEcrewneckblackfront_540x.png" : {
+    "\/deploy\/assets\/shop\/black\/crewneck.png" : {
       "ft" : 32768,
       "iS" : 35405,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Black\/LGEcrewneckblackfront_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/black\/crewneck.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -230,11 +230,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Black\/LGEhoodieblack_540x.png" : {
+    "\/deploy\/assets\/shop\/black\/hoodie.png" : {
       "ft" : 32768,
       "iS" : 40153,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Black\/LGEhoodieblack_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/black\/hoodie.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -243,11 +243,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Black\/LGEsweatsblack_540x.png" : {
+    "\/deploy\/assets\/shop\/black\/sweatpants.png" : {
       "ft" : 32768,
       "iS" : 64576,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Black\/LGEsweatsblack_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/black\/sweatpants.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -256,11 +256,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Black\/LGEsweatshortsblack_540x.png" : {
+    "\/deploy\/assets\/shop\/black\/sweatshorts.png" : {
       "ft" : 32768,
       "iS" : 57588,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Black\/LGEsweatshortsblack_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/black\/sweatshorts.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -269,11 +269,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Green\/LGEcrewnecksGREEN_540x.png" : {
+    "\/deploy\/assets\/shop\/green\/crewneck.png" : {
       "ft" : 32768,
       "iS" : 83248,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Green\/LGEcrewnecksGREEN_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/green\/crewneck.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -282,11 +282,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Green\/LGEhoodiegreen_540x.png" : {
+    "\/deploy\/assets\/shop\/green\/hoodie.png" : {
       "ft" : 32768,
       "iS" : 71617,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Green\/LGEhoodiegreen_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/green\/hoodie.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -295,11 +295,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Green\/LGEsweatsgreen_540x.png" : {
+    "\/deploy\/assets\/shop\/green\/sweatpants.png" : {
       "ft" : 32768,
       "iS" : 58954,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Green\/LGEsweatsgreen_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/green\/sweatpants.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -308,11 +308,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Green\/LGEsweatshortsgreen_540x.png" : {
+    "\/deploy\/assets\/shop\/green\/sweatshorts.png" : {
       "ft" : 32768,
       "iS" : 55499,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Green\/LGEsweatshortsgreen_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/green\/sweatshorts.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -321,11 +321,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Grey\/LGEcrewneckGREY_540x.png" : {
+    "\/deploy\/assets\/shop\/grey\/crewneck.png" : {
       "ft" : 32768,
       "iS" : 83935,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Grey\/LGEcrewneckGREY_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/grey\/crewneck.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -334,11 +334,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Grey\/LGEhoodiegrey_540x.png" : {
+    "\/deploy\/assets\/shop\/grey\/hoodie.png" : {
       "ft" : 32768,
       "iS" : 87558,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Grey\/LGEhoodiegrey_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/grey\/hoodie.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -347,11 +347,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Grey\/LGEsweatsgrey_540x.png" : {
+    "\/deploy\/assets\/shop\/grey\/sweatpants.png" : {
       "ft" : 32768,
       "iS" : 66984,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Grey\/LGEsweatsgrey_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/grey\/sweatpants.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -360,11 +360,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Grey\/LGEsweatshortsgrey_540x.png" : {
+    "\/deploy\/assets\/shop\/grey\/sweatshorts.png" : {
       "ft" : 32768,
       "iS" : 59947,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Grey\/LGEsweatshortsgrey_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/grey\/sweatshorts.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -373,11 +373,24 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Mauve\/LGEcrewneckPURPLE_540x.png" : {
+    "\/deploy\/assets\/shop\/hero2.png" : {
+      "ft" : 32768,
+      "iS" : 3457166,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/shop\/hero2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/shop\/mauve\/crewneck.png" : {
       "ft" : 32768,
       "iS" : 82043,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Mauve\/LGEcrewneckPURPLE_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/mauve\/crewneck.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -386,24 +399,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Mauve\/LGEsweatshortspurple_540x.png" : {
-      "ft" : 32768,
-      "iS" : 58971,
-      "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Mauve\/LGEsweatshortspurple_540x.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/assets\/shop\/Mauve\/LGEsweatspurple_540x.png" : {
+    "\/deploy\/assets\/shop\/mauve\/sweatpants.png" : {
       "ft" : 32768,
       "iS" : 65235,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Mauve\/LGEsweatspurple_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/mauve\/sweatpants.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -412,11 +412,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Orange\/LGEcrewneckorangeback_1800x1800.png" : {
+    "\/deploy\/assets\/shop\/mauve\/sweatshorts.png" : {
       "ft" : 32768,
-      "iS" : 832816,
+      "iS" : 58971,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Orange\/LGEcrewneckorangeback_1800x1800.png",
+      "oAP" : "\/deploy\/assets\/shop\/mauve\/sweatshorts.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -425,11 +425,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Orange\/LGEcrewnecksORANGE_540x.png" : {
+    "\/deploy\/assets\/shop\/orange\/crewneck.png" : {
       "ft" : 32768,
       "iS" : 64104,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Orange\/LGEcrewnecksORANGE_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/orange\/crewneck.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -438,11 +438,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Orange\/LGEhoodieorange_540x.png" : {
+    "\/deploy\/assets\/shop\/orange\/hoodie.png" : {
       "ft" : 32768,
       "iS" : 71248,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Orange\/LGEhoodieorange_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/orange\/hoodie.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -451,24 +451,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Orange\/LGEsweatshortsorange_540x.png" : {
-      "ft" : 32768,
-      "iS" : 47325,
-      "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Orange\/LGEsweatshortsorange_540x.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/assets\/shop\/Orange\/LGEsweatsorange_540x.png" : {
+    "\/deploy\/assets\/shop\/orange\/sweatpants.png" : {
       "ft" : 32768,
       "iS" : 51590,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Orange\/LGEsweatsorange_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/orange\/sweatpants.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -477,11 +464,24 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Pink\/LGEhoodiepink_540x.png" : {
+    "\/deploy\/assets\/shop\/orange\/sweatshorts.png" : {
+      "ft" : 32768,
+      "iS" : 47325,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/shop\/orange\/sweatshorts.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/shop\/pink\/hoodie.png" : {
       "ft" : 32768,
       "iS" : 77335,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Pink\/LGEhoodiepink_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/pink\/hoodie.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -490,24 +490,24 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/Pink\/LGEsweatshortspink_540x.png" : {
-      "ft" : 32768,
-      "iS" : 53669,
-      "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Pink\/LGEsweatshortspink_540x.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/assets\/shop\/Pink\/LGEsweatspink_540x.png" : {
+    "\/deploy\/assets\/shop\/pink\/sweatpants.png" : {
       "ft" : 32768,
       "iS" : 54326,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/Pink\/LGEsweatspink_540x.png",
+      "oAP" : "\/deploy\/assets\/shop\/pink\/sweatpants.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/shop\/pink\/sweatshorts.png" : {
+      "ft" : 32768,
+      "iS" : 53669,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/shop\/pink\/sweatshorts.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -546,6 +546,14 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/deploy\/shop.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/shop.html",
+      "oF" : 0
     },
     "\/dev\/content\/about.kit" : {
       "cB" : 0,
@@ -900,6 +908,38 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/dev\/shop-content\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/shop-content\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/shop-content\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/shop-content\/hero.html",
+      "oF" : 0
+    },
+    "\/dev\/shop-content\/products.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/shop-content\/products.html",
+      "oF" : 0
+    },
+    "\/dev\/shop.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/shop.html",
+      "oF" : 2
     },
     "\/gsap-bonus.tgz" : {
       "cB" : 0,
