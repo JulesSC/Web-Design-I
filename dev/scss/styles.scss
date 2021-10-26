@@ -19,11 +19,18 @@
 @import "layout/_footer";
 
 // Sections Styles
-@import "sections/_hero";
-@import "sections/_intro";
-@import "sections/_shop";
-@import "sections/_about";
-@import "sections/_blog";
-@import "sections/_contact";
+
+// Home Styles
+@import "home-sections/_hero";
+@import "home-sections/_intro";
+@import "home-sections/_shop";
+@import "home-sections/_about";
+@import "home-sections/_blog";
+@import "home-sections/_contact";
+
+// Shop Styles
+@import "shop-sections/_hero";
+@import "shop-sections/_products";
+@import "shop-sections/_contact";
 
 

@@ -716,3 +716,30 @@ footer > div ul li a:visited {
   background-color: transparent;
   font-size: 0.625rem;
 }
+
+/* =============
+    Hero
+============= */
+#shop-hero {
+  background-color: #EDE9E3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 558px;
+  margin-top: -135px;
+}
+#shop-hero > div {
+  text-align: center;
+  width: 70vw;
+}
+#shop-hero > div h5 {
+  font-size: 0.875rem;
+}
+#shop-hero > div img {
+  height: 214px;
+  width: 214px;
+  margin: 25px 0px 25px 0px;
+}
+#shop-hero > div p {
+  font-size: 0.625rem;
+}
