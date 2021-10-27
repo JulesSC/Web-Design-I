@@ -1,0 +1,22 @@
+#about-hero{
+    height: 812px;
+    background-color: #3B3B3B;
+    margin-top: -135px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    div{
+        text-align: center;
+        width: 80vw;
+        color: white;
+
+        h2{
+            margin: 0px 0px 42px 0px;
+        }
+
+        p{
+            margin-bottom: 18px;
+        }
+    }
+}

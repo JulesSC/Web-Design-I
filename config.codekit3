@@ -9,12 +9,20 @@
   ],
   "creatorBuild" : "34214",
   "files" : {
-    "\/deploy\/assets\/about\/132152175_214103993530988_6057799368294756389_n.jpg" : {
+    "\/deploy\/about.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/about.html",
+      "oF" : 0
+    },
+    "\/deploy\/assets\/about\/indy.jpg" : {
       "ft" : 16384,
       "iS" : 201099,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/about\/132152175_214103993530988_6057799368294756389_n.jpg",
+      "oAP" : "\/deploy\/assets\/about\/indy.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -555,6 +563,38 @@
       "oAP" : "\/deploy\/shop.html",
       "oF" : 0
     },
+    "\/dev\/about-content\/body.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/about-content\/body.html",
+      "oF" : 0
+    },
+    "\/dev\/about-content\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/about-content\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/about-content\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/about-content\/hero.html",
+      "oF" : 0
+    },
+    "\/dev\/about.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/about.html",
+      "oF" : 2
+    },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -653,6 +693,51 @@
       "oF" : 2,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/scss\/about-sections\/_body.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/about-sections\/_body.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/about-sections\/_contact.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/about-sections\/_contact.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/about-sections\/_hero.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/about-sections\/_hero.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
     },
     "\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
