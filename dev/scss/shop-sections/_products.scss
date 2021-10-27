@@ -1,0 +1,58 @@
+/* =============
+    Products
+============= */
+
+#products{
+    padding: 0px 5vw 70px 5vw;
+    background-color: #EDE9E3;
+
+    div{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        
+        button{
+            background-color: transparent;
+            border: 1px solid black;
+            text-align: center;
+            font-size: rem-calc(10);
+        }
+    }
+    
+    #items{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 38px 0px 38px 0px;
+
+        ul{
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+
+            li{
+                a{
+
+                    div{
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+    
+                        img{
+                            height: 164px;
+                            width: 164px;
+                        }
+                    }
+                    p{
+                        font-size: rem-calc(10);
+                    }
+                }
+                
+                a:link,
+                a:visited {
+                    color: $black;
+                }
+            }
+        }
+    }
+}

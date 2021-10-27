@@ -743,3 +743,49 @@ footer > div ul li a:visited {
 #shop-hero > div p {
   font-size: 0.625rem;
 }
+
+/* =============
+    Products
+============= */
+#products {
+  padding: 0px 5vw 70px 5vw;
+  background-color: #EDE9E3;
+}
+#products div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#products div button {
+  background-color: transparent;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 0.625rem;
+}
+#products #items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 38px 0px 38px 0px;
+}
+#products #items ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+}
+#products #items ul li a div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#products #items ul li a div img {
+  height: 164px;
+  width: 164px;
+}
+#products #items ul li a p {
+  font-size: 0.625rem;
+}
+#products #items ul li a:link,
+#products #items ul li a:visited {
+  color: #000;
+}
