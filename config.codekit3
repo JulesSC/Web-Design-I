@@ -563,20 +563,20 @@
       "oAP" : "\/deploy\/shop.html",
       "oF" : 0
     },
-    "\/dev\/about-content\/body.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/about-content\/body.html",
-      "oF" : 0
-    },
     "\/dev\/about-content\/contact.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/about-content\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/about-content\/content.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/about-content\/content.html",
       "oF" : 0
     },
     "\/dev\/about-content\/hero.kit" : {
@@ -694,21 +694,6 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/scss\/about-sections\/_body.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/about-sections\/_body.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
     "\/dev\/scss\/about-sections\/_contact.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -719,6 +704,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/about-sections\/_contact.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/about-sections\/_content.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/about-sections\/_content.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

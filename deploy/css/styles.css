@@ -844,22 +844,30 @@ footer > div ul li a:visited {
 }
 
 /* =============
-    Body
+    Content
 ============= */
-#body {
+#content {
   background-color: #EDE9E3;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 90px 0px 90px 0px;
 }
-#body div {
+#content div {
   text-align: center;
   width: 80vw;
 }
-#body div img {
+#content div :nth-child(10) {
+  margin-bottom: 0px;
+}
+#content div :last-child {
+  margin-bottom: 0px;
+}
+#content div img {
   height: 350px;
   width: 350px;
+  margin: 100px 0px 100px 0px;
 }
-#body div p {
+#content div p {
   margin-bottom: 18px;
 }
