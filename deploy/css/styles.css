@@ -864,6 +864,30 @@ footer > div ul li a:visited {
   border: 1px black solid;
 }
 
+/* =============
+    Hero
+============= */
+#images {
+  background-color: #EDE9E3;
+}
+#images > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 52px 0px;
+}
+#images > div ul li img {
+  width: 270px;
+  height: 270px;
+}
+#images video {
+  width: 100%;
+}
+#images h1 {
+  font-size: 4rem;
+  margin-top: -32px;
+}
+
 #about-hero {
   height: 812px;
   background-color: #3B3B3B;
