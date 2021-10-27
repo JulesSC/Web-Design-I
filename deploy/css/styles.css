@@ -842,3 +842,24 @@ footer > div ul li a:visited {
 #about-hero div p {
   margin-bottom: 18px;
 }
+
+/* =============
+    Body
+============= */
+#body {
+  background-color: #EDE9E3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#body div {
+  text-align: center;
+  width: 80vw;
+}
+#body div img {
+  height: 350px;
+  width: 350px;
+}
+#body div p {
+  margin-bottom: 18px;
+}

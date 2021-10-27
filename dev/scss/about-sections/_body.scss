@@ -1,0 +1,24 @@
+/* =============
+    Body
+============= */
+
+#body{
+    background-color: #EDE9E3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    div{
+        text-align: center;
+        width: 80vw;
+
+        img{
+            height: 350px;
+            width: 350px;
+        }
+
+        p{
+            margin-bottom: 18px;
+        }
+    }
+}
