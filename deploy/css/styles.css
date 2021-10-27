@@ -736,9 +736,7 @@ footer > div ul li a:visited {
 #shop-hero > div h5 {
   font-size: 0.875rem;
 }
-#shop-hero > div img {
-  height: 214px;
-  width: 214px;
+#shop-hero > div video {
   margin: 25px 0px 25px 0px;
 }
 #shop-hero > div p {
@@ -870,4 +868,36 @@ footer > div ul li a:visited {
 }
 #content div p {
   margin-bottom: 18px;
+}
+
+/* =============
+    Contact
+============= */
+#about-contact {
+  background-image: url("../assets/home/intro/background.jpg");
+  height: 461px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: -55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0px 62px;
+}
+#about-contact div h4 {
+  font-size: 1.5rem;
+}
+#about-contact div p {
+  margin: 27px 0px 50px 27px;
+  font-size: 0.625rem;
+}
+#about-contact div div input {
+  border: black solid 1px;
+  background-color: transparent;
+}
+#about-contact div div button {
+  border: none;
+  background-color: transparent;
+  font-size: 0.625rem;
 }

@@ -199,11 +199,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/product\/LGEcrewneckorangeback_1800x1800.png" : {
+    "\/deploy\/assets\/product\/back.png" : {
       "ft" : 32768,
       "iS" : 832816,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/product\/LGEcrewneckorangeback_1800x1800.png",
+      "oAP" : "\/deploy\/assets\/product\/back.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -212,11 +212,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/product\/LGEcrewnecksORANGE_540x.png" : {
+    "\/deploy\/assets\/product\/front.png" : {
       "ft" : 32768,
       "iS" : 64104,
       "oA" : 0,
-      "oAP" : "\/deploy\/assets\/product\/LGEcrewnecksORANGE_540x.png",
+      "oAP" : "\/deploy\/assets\/product\/front.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -224,6 +224,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/assets\/product\/video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/product\/video.mp4",
+      "oF" : 0
     },
     "\/deploy\/assets\/shop\/black\/crewneck.png" : {
       "ft" : 32768,
@@ -523,6 +531,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/assets\/shop\/video.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/shop\/video.mp4",
+      "oF" : 0
     },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
