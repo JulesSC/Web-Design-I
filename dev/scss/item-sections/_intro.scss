@@ -1,0 +1,50 @@
+/* =============
+    Intro
+============= */
+
+#item-intro{
+    background-color: #EDE9E3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -135px;
+    height: 412px;
+
+    >div{
+        padding-top: 35px;
+        text-align: center;
+        width: 80vw;
+
+        #second{
+            margin: 16px 0px 16px 0px;
+        }
+        
+        ul{
+            padding: 40px 0px 40px 0px;
+            display: flex;
+            align-content: center;
+            justify-content: space-evenly;
+            width: 100%;
+
+            li{
+                button{
+                    text-align: center;
+                    width: 30px;
+                    height: 18px;
+                    font-size: rem-calc(10);
+                    background-color: transparent;
+                    border: 1px black solid;
+                }
+            }
+        }
+
+        button{
+            text-align: center;
+            width: 98px;
+            height: 18px;
+            font-size: rem-calc(10);
+            background-color: transparent;
+            border: 1px black solid;
+        }
+    }
+}

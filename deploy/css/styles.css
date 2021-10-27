@@ -821,6 +821,49 @@ footer > div ul li a:visited {
   font-size: 0.625rem;
 }
 
+/* =============
+    Intro
+============= */
+#item-intro {
+  background-color: #EDE9E3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -135px;
+  height: 412px;
+}
+#item-intro > div {
+  padding-top: 35px;
+  text-align: center;
+  width: 80vw;
+}
+#item-intro > div #second {
+  margin: 16px 0px 16px 0px;
+}
+#item-intro > div ul {
+  padding: 40px 0px 40px 0px;
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+  width: 100%;
+}
+#item-intro > div ul li button {
+  text-align: center;
+  width: 30px;
+  height: 18px;
+  font-size: 0.625rem;
+  background-color: transparent;
+  border: 1px black solid;
+}
+#item-intro > div button {
+  text-align: center;
+  width: 98px;
+  height: 18px;
+  font-size: 0.625rem;
+  background-color: transparent;
+  border: 1px black solid;
+}
+
 #about-hero {
   height: 812px;
   background-color: #3B3B3B;

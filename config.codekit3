@@ -560,6 +560,14 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 0
     },
+    "\/deploy\/item.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/item.html",
+      "oF" : 0
+    },
     "\/deploy\/js\/scripts-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -697,6 +705,38 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/index.html",
+      "oF" : 2
+    },
+    "\/dev\/item-content\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item-content\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item-content\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item-content\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item-content\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item-content\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/item.html",
       "oF" : 2
     },
     "\/dev\/js\/scripts.js" : {
@@ -960,6 +1000,36 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/home-sections\/_shop.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/item-sections\/_images.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/item-sections\/_images.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/item-sections\/_intro.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/item-sections\/_intro.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
