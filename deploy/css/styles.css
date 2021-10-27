@@ -460,7 +460,7 @@ header > div button i {
     Footer
 ============= */
 footer {
-  background-color: #EDE9E3;
+  background-color: transparent;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -693,12 +693,13 @@ footer > div ul li a:visited {
 ============= */
 #contact {
   background-color: #EDE9E3;
-  height: 406px;
+  height: 461px;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
   padding: 0px 62px;
+  margin-bottom: -55px;
 }
 #contact div h4 {
   font-size: 1.5rem;
@@ -788,4 +789,36 @@ footer > div ul li a:visited {
 #products #items ul li a:link,
 #products #items ul li a:visited {
   color: #000;
+}
+
+/* =============
+    Contact
+============= */
+#shop-contact {
+  background-image: url("../assets/home/intro/background.jpg");
+  height: 461px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: -55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0px 62px;
+}
+#shop-contact div h4 {
+  font-size: 1.5rem;
+}
+#shop-contact div p {
+  margin: 27px 0px 50px 27px;
+  font-size: 0.625rem;
+}
+#shop-contact div div input {
+  border: black solid 1px;
+  background-color: transparent;
+}
+#shop-contact div div button {
+  border: none;
+  background-color: transparent;
+  font-size: 0.625rem;
 }

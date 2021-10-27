@@ -1,0 +1,39 @@
+/* =============
+    Contact
+============= */
+
+#shop-contact{
+    background-image: url("../assets/home/intro/background.jpg");
+    height: 461px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: -55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0px 62px;
+
+    div{
+        
+        h4{
+            font-size: rem-calc(24px);
+        }
+        p{
+            margin: 27px 0px 50px 27px;
+            font-size: rem-calc(10px);
+        }
+        div{
+            input{
+                border: black solid 1px;
+                background-color: transparent;
+            }
+            button{
+                border: none;
+                background-color: transparent;
+                font-size: rem-calc(10px);
+            }
+        }
+    }
+
+}
