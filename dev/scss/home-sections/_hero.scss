@@ -21,9 +21,11 @@
             font-size: rem-calc(24px);
             
             @font-face {
-                font-family: 'PP Agrandirm';
-                src: url('PangramPangram.woff') format('truetype');
+                font-family: 'PP Agrandir Grand';
+                src: url('../assets/fonts/PPAgrandir-GrandHeavy.woff2') format('woff2');
                 font-weight: 800;
+                font-style: normal;
+                font-display: swap;
             }
         }
         h6{

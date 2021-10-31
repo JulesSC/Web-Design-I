@@ -30,6 +30,30 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/assets\/fonts\/PPAgrandir-GrandHeavy.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/fonts\/PPAgrandir-GrandHeavy.woff2",
+      "oF" : 0
+    },
+    "\/deploy\/assets\/fonts\/PPAgrandir-Regular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/fonts\/PPAgrandir-Regular.woff2",
+      "oF" : 0
+    },
+    "\/deploy\/assets\/fonts\/PPMigra-Extralight.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/fonts\/PPMigra-Extralight.woff2",
+      "oF" : 0
+    },
     "\/deploy\/assets\/home\/blog\/blog.jpg" : {
       "ft" : 16384,
       "iS" : 199469,
@@ -233,6 +257,22 @@
       "oAP" : "\/deploy\/assets\/product\/video.mp4",
       "oF" : 0
     },
+    "\/deploy\/assets\/shop\/.hero2.png.icloud" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/shop\/.hero2.png.icloud",
+      "oF" : 0
+    },
+    "\/deploy\/assets\/shop\/.video.mp4.icloud" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/shop\/.video.mp4.icloud",
+      "oF" : 0
+    },
     "\/deploy\/assets\/shop\/black\/crewneck.png" : {
       "ft" : 32768,
       "iS" : 35405,
@@ -389,19 +429,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/assets\/shop\/hero2.png" : {
-      "ft" : 32768,
-      "iS" : 3457166,
-      "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/hero2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/deploy\/assets\/shop\/mauve\/crewneck.png" : {
       "ft" : 32768,
       "iS" : 82043,
@@ -531,14 +558,6 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
-    },
-    "\/deploy\/assets\/shop\/video.mp4" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/video.mp4",
-      "oF" : 0
     },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,

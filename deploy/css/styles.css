@@ -440,8 +440,15 @@ header > div {
   grid-template-columns: 40% auto;
   padding: 55px 16px;
 }
-header > div a {
-  font-size: 0.875rem;
+@font-face {
+  header > div a {
+    font-family: "PP Migra";
+    src: url("../assets/fonts/PPMigra-Extralight.woff2") format("woff2");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+    font-size: 0.875rem;
+  }
 }
 header > div a:link,
 header > div a:visited {
@@ -510,9 +517,11 @@ footer > div ul li a:visited {
 }
 @font-face {
   #hero > div h4 {
-    font-family: "PP Agrandirm";
-    src: url("PangramPangram.woff") format("truetype");
+    font-family: "PP Agrandir Grand";
+    src: url("../assets/fonts/PPAgrandir-GrandHeavy.woff2") format("woff2");
     font-weight: 800;
+    font-style: normal;
+    font-display: swap;
   }
 }
 #hero > div h6 {
@@ -545,6 +554,15 @@ footer > div ul li a:visited {
   font-size: 0.875rem;
   margin-top: -32px;
   color: white;
+}
+@font-face {
+  #intro > div h5 {
+    font-family: "PP Agrandir";
+    src: url("../assets/fonts/PPAgrandir-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
 }
 #intro > div p {
   width: 255px;

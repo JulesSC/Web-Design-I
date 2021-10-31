@@ -14,7 +14,14 @@ header{
         padding: 55px 16px;
 
         a{
-            font-size: rem-calc(14px);
+            @font-face {
+                font-family: 'PP Migra';
+                src: url('../assets/fonts/PPMigra-Extralight.woff2') format('woff2');
+                font-weight: 200;
+                font-style: normal;
+                font-display: swap;
+                font-size: rem-calc(14px);
+            }
         }
 
         a:link,
