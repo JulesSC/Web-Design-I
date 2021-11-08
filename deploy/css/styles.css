@@ -986,13 +986,3 @@ footer > div ul li a:visited {
   background-color: transparent;
   font-size: 0.625rem;
 }
-
-/* =============
-    List
-============= */
-#list {
-  background-color: #EDE9E3;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
