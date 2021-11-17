@@ -27,6 +27,19 @@
                     font-size: rem-calc(30px);
                     font-family: 'PP Agrandir';
                 }
+
+                a:link,
+                a:visited {
+                    color: $black;
+                    transition: 0.25s;
+                    // font-size: rem-calc(48px);
+                    // font-family: 'PP Migra';
+
+                    &:hover,
+                    &:active {
+                        color: #E84146;
+                    }
+                }
                 
                 input{
                     border: none;

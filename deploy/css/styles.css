@@ -825,6 +825,16 @@ footer > div ul li a:visited {
   font-size: 1.875rem;
   font-family: "PP Agrandir";
 }
+#menu div ul li a:link,
+#menu div ul li a:visited {
+  color: #000;
+  transition: 0.25s;
+}
+#menu div ul li a:link:hover, #menu div ul li a:link:active,
+#menu div ul li a:visited:hover,
+#menu div ul li a:visited:active {
+  color: #E84146;
+}
 #menu div ul li input {
   border: none;
   background-color: transparent;
