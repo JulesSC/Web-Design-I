@@ -44,7 +44,10 @@
                         }
                     }
                     p{
-                        font-size: rem-calc(10);
+                        span{
+                            font-family: 'PP Agrandir Grand';
+                            font-size: rem-calc(10px);
+                        }
                     }
                 }
                 

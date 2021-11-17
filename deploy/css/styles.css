@@ -450,7 +450,6 @@ h5 {
   font-size: 0.875rem;
   font-family: "PP Agrandir Grand";
   line-height: 18px;
-  color: white;
 }
 
 h6 {
@@ -475,7 +474,6 @@ button {
 span {
   font-size: 2.5rem;
   font-family: "PP Agrandir";
-  line-height: 45px;
 }
 
 a {
@@ -626,6 +624,7 @@ footer > div ul li a:visited {
 }
 #intro > div h5 {
   margin-top: -32px;
+  color: white;
 }
 #intro > div p {
   width: 255px;
@@ -862,7 +861,8 @@ footer > div ul li a:visited {
   height: 164px;
   width: 164px;
 }
-#products #items ul li a p {
+#products #items ul li a p span {
+  font-family: "PP Agrandir Grand";
   font-size: 0.625rem;
 }
 #products #items ul li a:link,
