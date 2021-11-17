@@ -511,18 +511,19 @@ footer > div ul li a:visited {
   padding: 125px 0px 45px 0px;
   text-align: center;
 }
-#hero > div h4 {
-  padding-bottom: 435px;
-  font-size: 1.5rem;
-}
 @font-face {
-  #hero > div h4 {
+  #hero > div {
     font-family: "PP Agrandir Grand";
     src: url("../assets/fonts/PPAgrandir-GrandHeavy.woff2") format("woff2");
     font-weight: 800;
     font-style: normal;
     font-display: swap;
   }
+}
+#hero > div h4 {
+  padding-bottom: 435px;
+  font-size: 1.5rem;
+  font-family: "PP Agrandir Grand";
 }
 #hero > div h6 {
   padding-bottom: 15px;
