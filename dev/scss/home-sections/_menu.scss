@@ -1,0 +1,62 @@
+/* =============
+    Menu
+============= */
+
+#menu{
+    height: 812px;
+    background-color: #EDE9E3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    div{
+        text-align: right;
+
+        #icon{
+            font-size: rem-calc(20px);
+            margin-bottom: 34px;
+        }
+        
+        ul{
+            text-align: center;
+            
+            li{
+                padding: 34px;
+                
+                a{
+                    font-size: rem-calc(30px);
+                    font-family: 'PP Agrandir';
+                }
+                
+                input{
+                    border: none;
+                    background-color: transparent;
+                    outline: none;
+                    text-align: center;
+                    font-size: rem-calc(30px);
+                    font-family: 'PP Agrandir';
+
+                    &::placeholder {
+                        /* Chrome, Firefox, Opera, Safari 10.1+ */
+                        color: black;
+                        /* Firefox */
+                        opacity: 1;
+                        font-variation-settings: "wght"300;
+                    }
+    
+                    &:-ms-input-placeholder {
+                        /* Internet Explorer 10-11 */
+                        color: black;
+                        font-variation-settings: "wght"300;
+                    }
+    
+                    &::-ms-input-placeholder {
+                        /* Microsoft Edge */
+                        color: black;
+                        font-variation-settings: "wght"300;
+                    }
+                }
+            }
+        }
+    }
+}

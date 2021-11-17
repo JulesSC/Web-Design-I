@@ -480,6 +480,7 @@ a {
   font-size: 0.625rem;
   font-family: "PP Agrandir";
   line-height: 13px;
+  color: black;
 }
 
 /* =============
@@ -790,6 +791,59 @@ footer > div ul li a:visited {
   border: none;
   background-color: transparent;
   font-size: 0.625rem;
+}
+
+/* =============
+    Menu
+============= */
+#menu {
+  height: 812px;
+  background-color: #EDE9E3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#menu div {
+  text-align: right;
+}
+#menu div #icon {
+  font-size: 1.25rem;
+  margin-bottom: 34px;
+}
+#menu div ul {
+  text-align: center;
+}
+#menu div ul li {
+  padding: 34px;
+}
+#menu div ul li a {
+  font-size: 1.875rem;
+  font-family: "PP Agrandir";
+}
+#menu div ul li input {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  text-align: center;
+  font-size: 1.875rem;
+  font-family: "PP Agrandir";
+}
+#menu div ul li input::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: black;
+  /* Firefox */
+  opacity: 1;
+  font-variation-settings: "wght" 300;
+}
+#menu div ul li input:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: black;
+  font-variation-settings: "wght" 300;
+}
+#menu div ul li input::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: black;
+  font-variation-settings: "wght" 300;
 }
 
 /* =============
