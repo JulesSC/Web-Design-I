@@ -18,3 +18,74 @@ p{
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'PP Agrandir';
+    src: url('../assets/fonts/PPAgrandir-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Migra';
+    src: url('../assets/fonts/PPMigra-Extralight.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+
+h1{
+    font-size: rem-calc(64px);
+    font-family: 'PP Migra';
+    line-height: 77px;
+}
+
+h2{
+    font-size: rem-calc(48px);
+    font-family: 'PP Migra';
+    line-height: 48px;
+}
+
+h3{
+    font-size: rem-calc(36px);
+    font-family: 'PP Migra';
+    line-height: 44px;
+}
+
+h4{
+    font-size: rem-calc(24px);
+    font-family: 'PP Agrandir Grand';
+    line-height: 31px;
+}
+
+h5{
+    font-size: rem-calc(14px);
+    font-family: 'PP Agrandir Grand';
+    line-height: 18px;
+    color: white;
+}
+
+h6{
+    font-size: rem-calc(12px);
+    font-family: 'PP Agrandir Grand';
+    color: white;
+    line-height: 16px;
+}
+
+p{
+    font-size: rem-calc(10px);
+    font-family: 'PP Agrandir';
+    line-height: 13px;
+}
+
+button{
+    font-size: rem-calc(10px);
+    font-family: 'PP Agrandir';
+    line-height: 13px;
+}
+
+span{
+    font-size: rem-calc(40px);
+    font-family: 'PP Agrandir';
+    line-height: 45px;
+}
