@@ -257,6 +257,14 @@
       "oAP" : "\/deploy\/assets\/product\/video.mp4",
       "oF" : 0
     },
+    "\/deploy\/assets\/shop\/.video.mp4.icloud" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/shop\/.video.mp4.icloud",
+      "oF" : 0
+    },
     "\/deploy\/assets\/shop\/black\/crewneck.png" : {
       "ft" : 32768,
       "iS" : 35405,
@@ -419,8 +427,8 @@
       "oA" : 0,
       "oAP" : "\/deploy\/assets\/shop\/hero2.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -555,14 +563,6 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
-    },
-    "\/deploy\/assets\/shop\/video.mp4" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/video.mp4",
-      "oF" : 0
     },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
@@ -721,6 +721,22 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/home-content\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/home-content\/menu.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/home-content\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/home-content\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/home-content\/menu.html",
       "oF" : 0
     },
     "\/dev\/home-content\/shop.kit" : {
@@ -1025,6 +1041,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/home-sections\/_intro.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/home-sections\/_menu.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/home-sections\/_menu.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

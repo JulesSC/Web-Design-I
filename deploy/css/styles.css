@@ -520,15 +520,9 @@ header > div {
   grid-template-columns: 40% auto;
   padding: 55px 16px;
 }
-@font-face {
-  header > div a {
-    font-family: "PP Migra";
-    src: url("../assets/fonts/PPMigra-Extralight.woff2") format("woff2");
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
-    font-size: 0.875rem;
-  }
+header > div a {
+  font-size: 0.875rem;
+  font-family: "PP Migra";
 }
 header > div a:link,
 header > div a:visited {
@@ -965,8 +959,10 @@ footer > div ul li a:visited {
   width: 100%;
 }
 #images h1 {
-  font-size: 4rem;
   margin-top: -32px;
+  -webkit-text-stroke: 0.1px #F59300;
+  -webkit-text-fill-color: transparent;
+  z-index: 100000;
 }
 
 #about-hero {
