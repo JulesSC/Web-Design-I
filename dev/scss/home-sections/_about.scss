@@ -38,5 +38,12 @@
             background-color: transparent;
             margin-top: 20px;
         }
+
+        button:hover {
+            // background-color: #E84146;
+            color: #EDE9E3;
+            border: #EDE9E3 1px solid;
+            transition: 0.25s;
+        }
     }
 }

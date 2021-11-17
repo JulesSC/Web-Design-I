@@ -724,6 +724,11 @@ footer > div ul li a:visited {
   background-color: transparent;
   margin-top: 20px;
 }
+#about > div button:hover {
+  color: #EDE9E3;
+  border: #EDE9E3 1px solid;
+  transition: 0.25s;
+}
 
 /* =============
     Blog
