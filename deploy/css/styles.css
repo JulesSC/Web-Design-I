@@ -807,12 +807,16 @@ footer > div ul li a:visited {
   background-color: transparent;
   font-size: 0.625rem;
 }
+#contact div div button:hover {
+  color: #E84146;
+  transition: 0.25s;
+}
 
 /* =============
     Menu
 ============= */
 #menu {
-  height: 812px;
+  height: 100vh;
   background-color: #EDE9E3;
   display: flex;
   justify-content: center;
