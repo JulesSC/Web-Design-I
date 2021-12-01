@@ -918,6 +918,11 @@ footer > div ul li a:visited {
   text-align: center;
   font-size: 0.625rem;
 }
+#products div button:hover {
+  color: #E84146;
+  border: 1px solid #E84146;
+  transition: 0.25s;
+}
 #products #items {
   display: flex;
   align-items: center;
@@ -977,6 +982,10 @@ footer > div ul li a:visited {
   border: none;
   background-color: transparent;
   font-size: 0.625rem;
+}
+#shop-contact div div button:hover {
+  color: white;
+  transition: 0.25s;
 }
 
 /* =============
@@ -1136,4 +1145,8 @@ footer > div ul li a:visited {
   border: none;
   background-color: transparent;
   font-size: 0.625rem;
+}
+#about-contact div div button:hover {
+  color: white;
+  transition: 0.25s;
 }
