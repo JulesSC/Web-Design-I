@@ -30,6 +30,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/assets\/about\/logo.png" : {
+      "ft" : 32768,
+      "iS" : 760,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/about\/logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/assets\/fonts\/PPAgrandir-GrandHeavy.woff2" : {
       "cB" : 0,
       "ft" : 8192,
@@ -63,6 +76,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/home\/hero\/arrow.png" : {
+      "ft" : 32768,
+      "iS" : 4722,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/home\/hero\/arrow.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -643,6 +669,14 @@
       "oAP" : "\/dev\/about-content\/hero.html",
       "oF" : 0
     },
+    "\/dev\/about-content\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/about-content\/menu.html",
+      "oF" : 0
+    },
     "\/dev\/about.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -723,14 +757,6 @@
       "oAP" : "\/dev\/home-content\/intro.html",
       "oF" : 0
     },
-    "\/dev\/home-content\/menu.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/home-content\/menu.html",
-      "oF" : 0
-    },
     "\/dev\/home-content\/menu.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -779,6 +805,14 @@
       "oAP" : "\/dev\/item-content\/intro.html",
       "oF" : 0
     },
+    "\/dev\/item-content\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item-content\/menu.html",
+      "oF" : 0
+    },
     "\/dev\/item.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -797,14 +831,6 @@
       "oF" : 2,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/dev\/list.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/menu.html",
-      "oF" : 2
     },
     "\/dev\/scss\/about-sections\/_contact.scss" : {
       "aP" : 0,
@@ -1210,6 +1236,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/shop-content\/hero.html",
+      "oF" : 0
+    },
+    "\/dev\/shop-content\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/shop-content\/menu.html",
       "oF" : 0
     },
     "\/dev\/shop-content\/products.kit" : {

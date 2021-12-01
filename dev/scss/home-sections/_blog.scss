@@ -39,6 +39,12 @@
                 color: white;
                 font-size: rem-calc(10px);
             }
+            button:hover {
+                background-color: #EDE9E3;
+                color: #000;
+                border: none;
+                transition: 0.25s;
+            }
         }
     }
 

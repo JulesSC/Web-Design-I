@@ -592,9 +592,13 @@ footer > div ul li a:visited {
   -webkit-text-fill-color: transparent;
 }
 #hero > div h6 {
-  padding-bottom: 15px;
+  padding-bottom: 25px;
   font-size: 0.75rem;
   color: white;
+}
+#hero > div img {
+  height: 100px;
+  width: 15px;
 }
 
 /* =============
@@ -769,6 +773,12 @@ footer > div ul li a:visited {
   background-color: transparent;
   color: white;
   font-size: 0.625rem;
+}
+#blog > div section button:hover {
+  background-color: #EDE9E3;
+  color: #000;
+  border: none;
+  transition: 0.25s;
 }
 
 /* =============
@@ -1007,6 +1017,11 @@ footer > div ul li a:visited {
   background-color: transparent;
   border: 1px black solid;
 }
+#item-intro > div button:hover {
+  color: #E84146;
+  border: #E84146 1px solid;
+  transition: 0.25s;
+}
 
 /* =============
     Hero
@@ -1046,6 +1061,10 @@ footer > div ul li a:visited {
   text-align: center;
   width: 80vw;
   color: white;
+}
+#about-hero div img {
+  width: 26px;
+  margin: 15px;
 }
 #about-hero div h2 {
   margin: 0px 0px 42px 0px;

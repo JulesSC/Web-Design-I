@@ -46,5 +46,10 @@
             background-color: transparent;
             border: 1px black solid;
         }
+        button:hover {
+            color: #E84146;
+            border: #E84146 1px solid;
+            transition: 0.25s;
+        }
     }
 }
