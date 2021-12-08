@@ -589,10 +589,10 @@ footer > div ul li a:visited:active {
   background-position: center;
   display: flex;
   justify-content: center;
-  margin-top: -135px;
+  margin-top: -80px;
 }
 #hero > div {
-  padding: 125px 0px 45px 0px;
+  padding: 130px 0px 45px 0px;
   text-align: center;
 }
 #hero > div h4 {
@@ -1009,7 +1009,7 @@ footer > div ul li a:visited:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: -135px;
+  margin-top: -80px;
   height: 412px;
 }
 #item-intro > div {
@@ -1021,17 +1021,17 @@ footer > div ul li a:visited:active {
   margin: 16px 0px 16px 0px;
 }
 #item-intro > div ul {
-  padding: 40px 0px 40px 0px;
+  padding: 40px 0px;
   display: flex;
   align-content: center;
   justify-content: space-evenly;
   width: 100%;
 }
-#item-intro > div ul li button {
+#item-intro > div ul li > button {
   text-align: center;
   width: 30px;
   height: 18px;
-  font-size: 0.625rem;
+  font-size: 0.75rem;
   background-color: transparent;
   border: 1px black solid;
 }
@@ -1039,7 +1039,7 @@ footer > div ul li a:visited:active {
   text-align: center;
   width: 98px;
   height: 18px;
-  font-size: 0.625rem;
+  font-size: 0.75rem;
   background-color: transparent;
   border: 1px black solid;
 }
@@ -1059,7 +1059,7 @@ footer > div ul li a:visited:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 52px 0px;
+  padding: 0px 0px 50px 0px;
 }
 #images > div ul li img {
   width: 270px;
@@ -1067,12 +1067,13 @@ footer > div ul li a:visited:active {
 }
 #images video {
   width: 100%;
+  padding: 20px 0px;
 }
 #images h1 {
-  margin-top: -32px;
   -webkit-text-stroke: 0.1px #F59300;
   -webkit-text-fill-color: transparent;
-  z-index: 100000;
+  z-index: 1;
+  text-align: center;
 }
 
 #about-hero {
