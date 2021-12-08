@@ -4,18 +4,21 @@
 
 #contact{
     background-color: #EDE9E3;
-    height: 461px;
+    height: 800px;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     padding: 0px 62px;
-    margin-bottom: -55px;
+    margin-bottom: -250px;
 
-    div{
+    >div{
+        margin-top: -250px;
+
         p{
-            margin: 27px 0px 50px 27px;
-            font-size: rem-calc(10px);
+            margin: 35px 0px 35px 35px;
+            font-size: rem-calc(14px);
+            line-height: 1.4;
         }
         div{
             input{
@@ -25,7 +28,8 @@
             button{
                 border: none;
                 background-color: transparent;
-                font-size: rem-calc(10px);
+                font-size: rem-calc(12px);
+                padding: 15px;
             }
             button:hover {
                 color: #E84146;

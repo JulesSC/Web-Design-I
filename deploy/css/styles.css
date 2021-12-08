@@ -423,50 +423,50 @@ p {
   font-style: normal;
 }
 h1 {
-  font-size: 4rem;
+  font-size: 4.25rem;
   font-family: "PP Migra";
   line-height: 77px;
 }
 
 h2 {
-  font-size: 3rem;
+  font-size: 3.25rem;
   font-family: "PP Migra";
   line-height: 48px;
 }
 
 h3 {
-  font-size: 2.25rem;
+  font-size: 2.5rem;
   font-family: "PP Migra";
   line-height: 44px;
 }
 
 h4 {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-family: "PP Agrandir Grand";
-  line-height: 31px;
+  line-height: 1.2;
 }
 
 h5 {
-  font-size: 0.875rem;
+  font-size: 1.125rem;
   font-family: "PP Agrandir Grand";
   line-height: 18px;
 }
 
 h6 {
-  font-size: 0.75rem;
+  font-size: 1rem;
   font-family: "PP Agrandir Grand";
   color: white;
   line-height: 16px;
 }
 
 p {
-  font-size: 0.625rem;
+  font-size: 0.875rem;
   font-family: "PP Agrandir";
-  line-height: 13px;
+  line-height: 1.4;
 }
 
 button {
-  font-size: 0.625rem;
+  font-size: 0.75rem;
   font-family: "PP Agrandir";
   line-height: 13px;
 }
@@ -549,24 +549,33 @@ footer {
 }
 footer > div {
   border-top: black 1px solid;
-  width: 90vw;
-  height: 54px;
+  width: 85vw;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 25px;
 }
 footer > div ul {
   width: 100%;
-  display: flex;
-  align-content: center;
-  justify-content: space-evenly;
+  text-align: center;
+}
+footer > div ul li {
+  padding: 15px 0px;
+  width: 100%;
 }
 footer > div ul li a {
-  font-size: 0.5rem;
+  padding: 15px 60px;
 }
 footer > div ul li a:link,
 footer > div ul li a:visited {
   color: #000;
+  font-size: 0.75rem;
+}
+footer > div ul li a:link:hover, footer > div ul li a:link:active,
+footer > div ul li a:visited:hover,
+footer > div ul li a:visited:active {
+  color: #E84146;
+  transition: 0.25s;
 }
 
 /* =============
@@ -588,7 +597,7 @@ footer > div ul li a:visited {
 }
 #hero > div h4 {
   padding-bottom: 435px;
-  -webkit-text-stroke: 1px black;
+  -webkit-text-stroke: 1.5px black;
   -webkit-text-fill-color: transparent;
 }
 #hero > div h6 {
@@ -606,7 +615,7 @@ footer > div ul li a:visited {
 ============= */
 #intro {
   background-image: url("../assets/home/intro/background.jpg");
-  height: 406px;
+  height: 410px;
   width: 100%;
   background-size: cover;
   background-position: center;
@@ -616,6 +625,7 @@ footer > div ul li a:visited {
 }
 #intro > div {
   text-align: center;
+  padding: 0px 15%;
 }
 #intro > div img {
   width: 214px;
@@ -626,7 +636,6 @@ footer > div ul li a:visited {
   color: white;
 }
 #intro > div p {
-  width: 255px;
   margin-top: 32px;
 }
 
@@ -640,11 +649,9 @@ footer > div ul li a:visited {
   align-items: center;
   justify-content: center;
 }
-#shop > div {
-  overflow: hidden;
-}
 #shop > div h1 {
   text-align: center;
+  overflow: hidden;
 }
 #shop > div #images {
   display: flex;
@@ -652,7 +659,7 @@ footer > div ul li a:visited {
   justify-content: center;
 }
 #shop > div #images ul {
-  margin: 55px 0px;
+  margin: 40px 0px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-areas: "one1 one2 one3" "two1 two2 two3" "three1 three2 three3";
@@ -694,7 +701,7 @@ footer > div ul li a:visited {
 ============= */
 #about {
   background-image: url("../assets/home/intro/background.jpg");
-  height: 406px;
+  padding: 50px 0px;
   width: 100%;
   background-size: cover;
   background-position: center;
@@ -704,31 +711,34 @@ footer > div ul li a:visited {
 }
 #about > div {
   text-align: center;
+  padding: 0px 15%;
 }
 #about > div h5 {
-  margin-bottom: 14px;
-  -webkit-text-stroke: 1px black;
+  margin-bottom: 12px;
+  -webkit-text-stroke: 1.5px black;
   -webkit-text-fill-color: transparent;
 }
 #about > div h3 {
   font-size: 2.25rem;
-  margin-bottom: 38px;
+  margin-bottom: 24px;
 }
 #about > div #top {
   margin-bottom: 18px;
 }
-#about > div p {
-  font-size: 0.625rem;
-  width: 300px;
-  margin-bottom: 5px;
+#about > div #bottom {
+  margin-bottom: 18px;
 }
-#about > div button {
-  font-size: 0.625rem;
+#about > div a:link,
+#about > div a:visited {
+  font-size: 0.75rem;
   border: black 1px solid;
   background-color: transparent;
   margin-top: 20px;
+  padding: 5px 10px;
 }
-#about > div button:hover {
+#about > div a:link:hover, #about > div a:link:active,
+#about > div a:visited:hover,
+#about > div a:visited:active {
   color: #EDE9E3;
   border: #EDE9E3 1px solid;
   transition: 0.25s;
@@ -739,7 +749,7 @@ footer > div ul li a:visited {
 ============= */
 #blog {
   background-color: #3B3B3B;
-  height: 660px;
+  padding: 10%;
   text-align: center;
   display: flex;
   align-items: center;
@@ -755,29 +765,28 @@ footer > div ul li a:visited {
   height: 345px;
 }
 #blog > div section {
-  padding: 20px 38px;
+  padding-top: 10%;
   color: white;
 }
-#blog > div section h2 {
-  font-size: 3rem;
-}
 #blog > div section h2 span {
-  font-size: 2.5rem;
+  font-size: 2.75rem;
 }
 #blog > div section p {
   margin: 20px 0px;
-  font-size: 0.625rem;
 }
-#blog > div section button {
-  border: solid white 1px;
-  background-color: transparent;
+#blog > div section a:link,
+#blog > div section a:visited {
+  font-size: 0.75rem;
+  border: white 1px solid;
   color: white;
-  font-size: 0.625rem;
+  padding: 5px 10px;
 }
-#blog > div section button:hover {
+#blog > div section a:link:hover, #blog > div section a:link:active,
+#blog > div section a:visited:hover,
+#blog > div section a:visited:active {
   background-color: #EDE9E3;
-  color: #000;
-  border: none;
+  color: black;
+  border: #EDE9E3;
   transition: 0.25s;
 }
 
@@ -786,28 +795,33 @@ footer > div ul li a:visited {
 ============= */
 #contact {
   background-color: #EDE9E3;
-  height: 461px;
+  height: 800px;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
   padding: 0px 62px;
-  margin-bottom: -55px;
+  margin-bottom: -250px;
 }
-#contact div p {
-  margin: 27px 0px 50px 27px;
-  font-size: 0.625rem;
+#contact > div {
+  margin-top: -250px;
 }
-#contact div div input {
+#contact > div p {
+  margin: 35px 0px 35px 35px;
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+#contact > div div input {
   border: black solid 1px;
   background-color: transparent;
 }
-#contact div div button {
+#contact > div div button {
   border: none;
   background-color: transparent;
-  font-size: 0.625rem;
+  font-size: 0.75rem;
+  padding: 15px;
 }
-#contact div div button:hover {
+#contact > div div button:hover {
   color: #E84146;
   transition: 0.25s;
 }

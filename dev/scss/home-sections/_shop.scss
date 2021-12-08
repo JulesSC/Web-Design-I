@@ -10,10 +10,10 @@
     justify-content: center;
 
     >div{
-        overflow: hidden;
         
         h1{
             text-align: center;
+            overflow: hidden;
         }
     
         #images{
@@ -22,7 +22,7 @@
             justify-content: center;
 
             ul{
-                margin: 55px 0px;
+                margin: 40px 0px;
                 display: grid;
                 grid-template-columns: repeat(3, 1fr);
                 grid-template-areas: "one1 one2 one3"

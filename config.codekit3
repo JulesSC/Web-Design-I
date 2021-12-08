@@ -283,6 +283,14 @@
       "oAP" : "\/deploy\/assets\/product\/video.mp4",
       "oF" : 0
     },
+    "\/deploy\/assets\/shop\/.video.mp4.icloud" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/shop\/.video.mp4.icloud",
+      "oF" : 0
+    },
     "\/deploy\/assets\/shop\/black\/crewneck.png" : {
       "ft" : 32768,
       "iS" : 35405,
@@ -581,14 +589,6 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
-    },
-    "\/deploy\/assets\/shop\/video.mp4" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/assets\/shop\/video.mp4",
-      "oF" : 0
     },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,

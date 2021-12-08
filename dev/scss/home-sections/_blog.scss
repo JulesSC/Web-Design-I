@@ -4,7 +4,8 @@
 
 #blog{
     background-color: #3B3B3B;
-    height: 660px;
+    padding: 10%;
+    // height: 660px;
     text-align: center;
     display: flex;
     align-items: center;
@@ -21,29 +22,33 @@
             }
         }
         section{
-            padding: 20px 38px;
+            padding-top: 10%;
             color: white;
+
             h2{
-                font-size: rem-calc(48px);
                 span{
-                    font-size: rem-calc(40px);
+                    font-size: rem-calc(44px);
                 }
             }
+
             p{
                 margin: 20px 0px;
-                font-size: rem-calc(10px);
             }
-            button{
-                border: solid white 1px;
-                background-color: transparent;
+
+            a:link,
+            a:visited {
+                font-size: rem-calc(12px);
+                border: white 1px solid;
                 color: white;
-                font-size: rem-calc(10px);
-            }
-            button:hover {
-                background-color: #EDE9E3;
-                color: #000;
-                border: none;
-                transition: 0.25s;
+                padding: 5px 10px;
+
+                &:hover,
+                &:active {
+                    background-color: #EDE9E3;
+                    color: black;
+                    border: #EDE9E3;
+                    transition: 0.25s;
+                }
             }
         }
     }

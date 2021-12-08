@@ -4,7 +4,7 @@
 
 #about{
     background-image: url("../assets/home/intro/background.jpg");
-    height: 406px;
+    padding: 50px 0px;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -14,36 +14,38 @@
 
     >div{
         text-align: center;
+        padding: 0px 15%;
 
         h5{
-            margin-bottom: 14px;
-            -webkit-text-stroke:1px black;
+            margin-bottom: 12px;
+            -webkit-text-stroke:1.5px black;
             -webkit-text-fill-color:transparent;
         }
         h3{
             font-size: rem-calc(36px);
-            margin-bottom: 38px;
+            margin-bottom: 24px;
         }
         #top{
             margin-bottom: 18px;
         }
-        p{
-            font-size: rem-calc(10px);
-            width: 300px;
-            margin-bottom: 5px;
+        #bottom{
+            margin-bottom: 18px;
         }
-        button{
-            font-size: rem-calc(10px);
+
+        a:link,
+        a:visited {
+            font-size: rem-calc(12px);
             border: black 1px solid;
             background-color: transparent;
             margin-top: 20px;
-        }
+            padding: 5px 10px;
 
-        button:hover {
-            // background-color: #E84146;
-            color: #EDE9E3;
-            border: #EDE9E3 1px solid;
-            transition: 0.25s;
+            &:hover,
+            &:active {
+                color: #EDE9E3;
+                border: #EDE9E3 1px solid;
+                transition: 0.25s;
+            }
         }
     }
 }
