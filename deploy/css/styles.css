@@ -1029,16 +1029,16 @@ footer > div ul li a:visited:active {
 }
 #item-intro > div ul li > button {
   text-align: center;
-  width: 30px;
-  height: 18px;
+  width: 40px;
+  height: 28px;
   font-size: 0.75rem;
   background-color: transparent;
   border: 1px black solid;
 }
 #item-intro > div button {
   text-align: center;
-  width: 98px;
-  height: 18px;
+  width: 110px;
+  height: 38px;
   font-size: 0.75rem;
   background-color: transparent;
   border: 1px black solid;
@@ -1109,10 +1109,9 @@ footer > div ul li a:visited:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 90px 0px 90px 0px;
+  padding: 80px 0px 80px 0px;
 }
 #content div {
-  text-align: center;
   width: 80vw;
 }
 #content div :nth-child(10) {
@@ -1124,7 +1123,7 @@ footer > div ul li a:visited:active {
 #content div img {
   height: 350px;
   width: 350px;
-  margin: 100px 0px 100px 0px;
+  margin: 50px 0px 50px 0px;
 }
 #content div p {
   margin-bottom: 18px;
@@ -1135,7 +1134,7 @@ footer > div ul li a:visited:active {
 ============= */
 #about-contact {
   background-image: url("../assets/home/intro/background.jpg");
-  height: 461px;
+  height: 800px;
   background-size: cover;
   background-position: center;
   margin-bottom: -55px;
@@ -1144,24 +1143,26 @@ footer > div ul li a:visited:active {
   justify-content: center;
   text-align: center;
   padding: 0px 62px;
+  margin-bottom: -300px;
 }
-#about-contact div h4 {
-  font-size: 1.5rem;
+#about-contact > div {
+  margin-top: -300px;
 }
-#about-contact div p {
-  margin: 27px 0px 50px 27px;
-  font-size: 0.625rem;
+#about-contact > div p {
+  margin: 35px 0px 35px 35px;
+  line-height: 1.4;
 }
-#about-contact div div input {
+#about-contact > div div input {
   border: black solid 1px;
   background-color: transparent;
 }
-#about-contact div div button {
+#about-contact > div div button {
   border: none;
   background-color: transparent;
-  font-size: 0.625rem;
+  font-size: 0.75rem;
+  padding: 15px;
 }
-#about-contact div div button:hover {
+#about-contact > div div button:hover {
   color: white;
   transition: 0.25s;
 }
