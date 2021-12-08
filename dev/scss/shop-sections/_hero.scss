@@ -7,23 +7,15 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 558px;
-    margin-top: -135px;
+    margin-top: -80px;
 
     >div{
         text-align: center;
         width: 70vw;
-
-        h5{
-            font-size: rem-calc(14);
-        }
+        padding: 100px 0px 60px 0px; 
 
         video{
             margin: 25px 0px 25px 0px;
-        }
-
-        p{
-            font-size: rem-calc(10);
         }
     }
 }

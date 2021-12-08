@@ -15,7 +15,9 @@
             background-color: transparent;
             border: 1px solid black;
             text-align: center;
-            font-size: rem-calc(10);
+            font-size: rem-calc(12);
+            height: 30px;
+            width: 80px;
         }
 
         button:hover {
@@ -52,7 +54,7 @@
                     p{
                         span{
                             font-family: 'PP Agrandir Grand';
-                            font-size: rem-calc(10px);
+                            font-size: rem-calc(14px);
                         }
                     }
                 }

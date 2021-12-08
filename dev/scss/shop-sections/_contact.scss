@@ -4,7 +4,7 @@
 
 #shop-contact{
     background-image: url("../assets/home/intro/background.jpg");
-    height: 461px;
+    height: 800px;
     background-size: cover;
     background-position: center;
     margin-bottom: -55px;
@@ -13,30 +13,35 @@
     justify-content: center;
     text-align: center;
     padding: 0px 62px;
+    margin-bottom: -300px;
 
-    div{
-        
-        h4{
-            font-size: rem-calc(24px);
-        }
+    >div{
+        margin-top: -300px;
+
         p{
-            margin: 27px 0px 50px 27px;
-            font-size: rem-calc(10px);
+            margin: 35px 0px 35px 35px;
+            line-height: 1.4;
         }
+
         div{
+
             input{
                 border: black solid 1px;
                 background-color: transparent;
             }
+
             button{
                 border: none;
                 background-color: transparent;
-                font-size: rem-calc(10px);
+                font-size: rem-calc(12px);
+                padding: 15px;
             }
+
             button:hover {
                 color: white;
                 transition: 0.25s;
             }
+
         }
     }
 }

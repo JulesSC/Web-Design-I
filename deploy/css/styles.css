@@ -519,7 +519,7 @@ header {
 header > div {
   display: grid;
   grid-template-columns: 40% auto;
-  padding: 55px 16px;
+  padding: 25px 16px;
 }
 header > div a {
   font-size: 0.875rem;
@@ -801,10 +801,10 @@ footer > div ul li a:visited:active {
   justify-content: center;
   text-align: center;
   padding: 0px 62px;
-  margin-bottom: -250px;
+  margin-bottom: -300px;
 }
 #contact > div {
-  margin-top: -250px;
+  margin-top: -300px;
 }
 #contact > div p {
   margin: 35px 0px 35px 35px;
@@ -852,6 +852,7 @@ footer > div ul li a:visited:active {
 #menu div ul li a {
   font-size: 1.875rem;
   font-family: "PP Agrandir";
+  padding: 20px 60px;
 }
 #menu div ul li a:link,
 #menu div ul li a:visited {
@@ -897,21 +898,15 @@ footer > div ul li a:visited:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 558px;
-  margin-top: -135px;
+  margin-top: -80px;
 }
 #shop-hero > div {
   text-align: center;
   width: 70vw;
-}
-#shop-hero > div h5 {
-  font-size: 0.875rem;
+  padding: 100px 0px 60px 0px;
 }
 #shop-hero > div video {
   margin: 25px 0px 25px 0px;
-}
-#shop-hero > div p {
-  font-size: 0.625rem;
 }
 
 /* =============
@@ -930,7 +925,9 @@ footer > div ul li a:visited:active {
   background-color: transparent;
   border: 1px solid black;
   text-align: center;
-  font-size: 0.625rem;
+  font-size: 0.75rem;
+  height: 30px;
+  width: 80px;
 }
 #products div button:hover {
   color: #E84146;
@@ -959,7 +956,7 @@ footer > div ul li a:visited:active {
 }
 #products #items ul li a p span {
   font-family: "PP Agrandir Grand";
-  font-size: 0.625rem;
+  font-size: 0.875rem;
 }
 #products #items ul li a:link,
 #products #items ul li a:visited {
@@ -971,7 +968,7 @@ footer > div ul li a:visited:active {
 ============= */
 #shop-contact {
   background-image: url("../assets/home/intro/background.jpg");
-  height: 461px;
+  height: 800px;
   background-size: cover;
   background-position: center;
   margin-bottom: -55px;
@@ -980,24 +977,26 @@ footer > div ul li a:visited:active {
   justify-content: center;
   text-align: center;
   padding: 0px 62px;
+  margin-bottom: -300px;
 }
-#shop-contact div h4 {
-  font-size: 1.5rem;
+#shop-contact > div {
+  margin-top: -300px;
 }
-#shop-contact div p {
-  margin: 27px 0px 50px 27px;
-  font-size: 0.625rem;
+#shop-contact > div p {
+  margin: 35px 0px 35px 35px;
+  line-height: 1.4;
 }
-#shop-contact div div input {
+#shop-contact > div div input {
   border: black solid 1px;
   background-color: transparent;
 }
-#shop-contact div div button {
+#shop-contact > div div button {
   border: none;
   background-color: transparent;
-  font-size: 0.625rem;
+  font-size: 0.75rem;
+  padding: 15px;
 }
-#shop-contact div div button:hover {
+#shop-contact > div div button:hover {
   color: white;
   transition: 0.25s;
 }
