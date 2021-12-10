@@ -262,6 +262,97 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/assets\/product\/black\/back\/crewneck.png" : {
+      "ft" : 32768,
+      "iS" : 1071531,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/product\/black\/back\/crewneck.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/product\/black\/back\/sweatpants.png" : {
+      "ft" : 32768,
+      "iS" : 1908443,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/product\/black\/back\/sweatpants.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/product\/black\/back\/sweatshorts.png" : {
+      "ft" : 32768,
+      "iS" : 1570158,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/product\/black\/back\/sweatshorts.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/product\/black\/front\/crewneck.png" : {
+      "ft" : 32768,
+      "iS" : 1152505,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/product\/black\/front\/crewneck.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/product\/black\/front\/hoodie.png" : {
+      "ft" : 32768,
+      "iS" : 1020243,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/product\/black\/front\/hoodie.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/product\/black\/front\/sweatpants.png" : {
+      "ft" : 32768,
+      "iS" : 1887353,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/product\/black\/front\/sweatpants.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/assets\/product\/black\/front\/sweatshorts.png" : {
+      "ft" : 32768,
+      "iS" : 1648046,
+      "oA" : 0,
+      "oAP" : "\/deploy\/assets\/product\/black\/front\/sweatshorts.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/assets\/product\/front.png" : {
       "ft" : 32768,
       "iS" : 64104,
@@ -590,6 +681,38 @@
       "oAP" : "\/deploy\/assets\/shop\/video.mp4",
       "oF" : 0
     },
+    "\/deploy\/black-crewneck.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/black-crewneck.html",
+      "oF" : 0
+    },
+    "\/deploy\/black-hoodie.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/black-hoodie.html",
+      "oF" : 0
+    },
+    "\/deploy\/black-sweatpants.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/black-sweatpants.html",
+      "oF" : 0
+    },
+    "\/deploy\/black-sweatshorts.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/black-sweatshorts.html",
+      "oF" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -602,20 +725,76 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/green-crewneck.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/green-crewneck.html",
+      "oF" : 0
+    },
+    "\/deploy\/green-hoodie.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/green-hoodie.html",
+      "oF" : 0
+    },
+    "\/deploy\/green-sweatpants.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/green-sweatpants.html",
+      "oF" : 0
+    },
+    "\/deploy\/green-sweatshorts.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/green-sweatshorts.html",
+      "oF" : 0
+    },
+    "\/deploy\/grey-crewneck.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/grey-crewneck.html",
+      "oF" : 0
+    },
+    "\/deploy\/grey-hoodie.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/grey-hoodie.html",
+      "oF" : 0
+    },
+    "\/deploy\/grey-sweatpants.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/grey-sweatpants.html",
+      "oF" : 0
+    },
+    "\/deploy\/grey-sweatshorts.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/grey-sweatshorts.html",
+      "oF" : 0
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/deploy\/index.html",
-      "oF" : 0
-    },
-    "\/deploy\/item.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/item.html",
       "oF" : 0
     },
     "\/deploy\/js\/scripts-min.js" : {
@@ -628,6 +807,86 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/deploy\/mauve-crewneck.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/mauve-crewneck.html",
+      "oF" : 0
+    },
+    "\/deploy\/mauve-sweatpants.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/mauve-sweatpants.html",
+      "oF" : 0
+    },
+    "\/deploy\/mauve-sweatshorts.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/mauve-sweatshorts.html",
+      "oF" : 0
+    },
+    "\/deploy\/orange-crewneck.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/orange-crewneck.html",
+      "oF" : 0
+    },
+    "\/deploy\/orange-hoodie.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/orange-hoodie.html",
+      "oF" : 0
+    },
+    "\/deploy\/orange-sweatpants.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/orange-sweatpants.html",
+      "oF" : 0
+    },
+    "\/deploy\/orange-sweatshorts.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/orange-sweatshorts.html",
+      "oF" : 0
+    },
+    "\/deploy\/pink-hoodie.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/pink-hoodie.html",
+      "oF" : 0
+    },
+    "\/deploy\/pink-sweatpants.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/pink-sweatpants.html",
+      "oF" : 0
+    },
+    "\/deploy\/pink-sweatshorts.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/pink-sweatshorts.html",
+      "oF" : 0
     },
     "\/deploy\/shop.html" : {
       "cB" : 0,
@@ -677,6 +936,38 @@
       "oAP" : "\/deploy\/about.html",
       "oF" : 2
     },
+    "\/dev\/black-crewneck.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/black-crewneck.html",
+      "oF" : 2
+    },
+    "\/dev\/black-hoodie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/black-hoodie.html",
+      "oF" : 2
+    },
+    "\/dev\/black-sweatpants.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/black-sweatpants.html",
+      "oF" : 2
+    },
+    "\/dev\/black-sweatshorts.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/black-sweatshorts.html",
+      "oF" : 2
+    },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -708,6 +999,70 @@
       "oA" : 1,
       "oAP" : "\/dev\/global\/scripts.html",
       "oF" : 0
+    },
+    "\/dev\/green-crewneck.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/green-crewneck.html",
+      "oF" : 2
+    },
+    "\/dev\/green-hoodie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/green-hoodie.html",
+      "oF" : 2
+    },
+    "\/dev\/green-sweatpants.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/green-sweatpants.html",
+      "oF" : 2
+    },
+    "\/dev\/green-sweatshorts.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/green-sweatshorts.html",
+      "oF" : 2
+    },
+    "\/dev\/grey-crewneck.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/grey-crewneck.html",
+      "oF" : 2
+    },
+    "\/dev\/grey-hoodie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/grey-hoodie.html",
+      "oF" : 2
+    },
+    "\/dev\/grey-sweatpants.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/grey-sweatpants.html",
+      "oF" : 2
+    },
+    "\/dev\/grey-sweatshorts.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/grey-sweatshorts.html",
+      "oF" : 2
     },
     "\/dev\/home-content\/about.kit" : {
       "cB" : 0,
@@ -773,45 +1128,709 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 2
     },
-    "\/dev\/item-content\/contact.kit" : {
+    "\/dev\/item\/black\/crewneck\/contact.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/item-content\/contact.html",
+      "oAP" : "\/dev\/item\/black\/crewneck\/contact.html",
       "oF" : 0
     },
-    "\/dev\/item-content\/images.kit" : {
+    "\/dev\/item\/black\/crewneck\/images.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/item-content\/images.html",
+      "oAP" : "\/dev\/item\/black\/crewneck\/images.html",
       "oF" : 0
     },
-    "\/dev\/item-content\/intro.kit" : {
+    "\/dev\/item\/black\/crewneck\/intro.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/item-content\/intro.html",
+      "oAP" : "\/dev\/item\/black\/crewneck\/intro.html",
       "oF" : 0
     },
-    "\/dev\/item-content\/menu.kit" : {
+    "\/dev\/item\/black\/crewneck\/menu.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/item-content\/menu.html",
+      "oAP" : "\/dev\/item\/black\/crewneck\/menu.html",
       "oF" : 0
     },
-    "\/dev\/item.kit" : {
+    "\/dev\/item\/black\/hoodie\/contact.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/item.html",
-      "oF" : 2
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/hoodie\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/black\/hoodie\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/hoodie\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/black\/hoodie\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/hoodie\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/black\/hoodie\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/hoodie\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/black\/sweatpants\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/sweatpants\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/black\/sweatpants\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/sweatpants\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/black\/sweatpants\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/sweatpants\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/black\/sweatpants\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/sweatpants\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/black\/sweatshorts\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/sweatshorts\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/black\/sweatshorts\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/sweatshorts\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/black\/sweatshorts\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/sweatshorts\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/black\/sweatshorts\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/black\/sweatshorts\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/crewneck\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/crewneck\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/crewneck\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/crewneck\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/crewneck\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/crewneck\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/crewneck\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/crewneck\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/hoodie\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/hoodie\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/hoodie\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/hoodie\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/hoodie\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/hoodie\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/hoodie\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/hoodie\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/sweatpants\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/sweatpants\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/sweatpants\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/sweatpants\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/sweatpants\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/sweatpants\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/sweatpants\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/sweatpants\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/sweatshorts\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/sweatshorts\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/sweatshorts\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/sweatshorts\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/sweatshorts\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/sweatshorts\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/green\/sweatshorts\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/green\/sweatshorts\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/crewneck\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/crewneck\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/crewneck\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/crewneck\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/crewneck\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/crewneck\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/crewneck\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/crewneck\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/hoodie\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/hoodie\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/hoodie\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/hoodie\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/hoodie\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/hoodie\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/hoodie\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/hoodie\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/sweatpants\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/sweatpants\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/sweatpants\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/sweatpants\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/sweatpants\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/sweatpants\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/sweatpants\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/sweatpants\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/sweatshorts\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/sweatshorts\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/sweatshorts\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/sweatshorts\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/sweatshorts\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/sweatshorts\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/grey\/sweatshorts\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/grey\/sweatshorts\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/crewneck\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/crewneck\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/crewneck\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/crewneck\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/crewneck\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/crewneck\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/crewneck\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/crewneck\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/sweatpants\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/sweatpants\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/sweatpants\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/sweatpants\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/sweatpants\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/sweatpants\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/sweatpants\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/sweatpants\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/sweatshorts\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/sweatshorts\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/sweatshorts\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/sweatshorts\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/sweatshorts\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/sweatshorts\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/mauve\/sweatshorts\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/mauve\/sweatshorts\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/crewneck\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/crewneck\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/crewneck\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/crewneck\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/crewneck\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/crewneck\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/crewneck\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/crewneck\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/hoodie\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/hoodie\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/hoodie\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/hoodie\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/hoodie\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/hoodie\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/hoodie\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/hoodie\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/sweatpants\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/sweatpants\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/sweatpants\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/sweatpants\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/sweatpants\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/sweatpants\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/sweatpants\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/sweatpants\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/sweatshorts\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/sweatshorts\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/sweatshorts\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/sweatshorts\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/sweatshorts\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/sweatshorts\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/orange\/sweatshorts\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/orange\/sweatshorts\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/hoodie\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/hoodie\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/hoodie\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/hoodie\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/hoodie\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/hoodie\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/hoodie\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/hoodie\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/sweatpants\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/sweatpants\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/sweatpants\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/sweatpants\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/sweatpants\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/sweatpants\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/sweatpants\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/sweatpants\/menu.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/sweatshorts\/contact.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/sweatshorts\/contact.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/sweatshorts\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/sweatshorts\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/sweatshorts\/intro.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/sweatshorts\/intro.html",
+      "oF" : 0
+    },
+    "\/dev\/item\/pink\/sweatshorts\/menu.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/item\/pink\/sweatshorts\/menu.html",
+      "oF" : 0
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -823,6 +1842,86 @@
       "oF" : 2,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/mauve-crewneck.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/mauve-crewneck.html",
+      "oF" : 2
+    },
+    "\/dev\/mauve-sweatpants.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/mauve-sweatpants.html",
+      "oF" : 2
+    },
+    "\/dev\/mauve-sweatshorts.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/mauve-sweatshorts.html",
+      "oF" : 2
+    },
+    "\/dev\/orange-crewneck.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/orange-crewneck.html",
+      "oF" : 2
+    },
+    "\/dev\/orange-hoodie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/orange-hoodie.html",
+      "oF" : 2
+    },
+    "\/dev\/orange-sweatpants.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/orange-sweatpants.html",
+      "oF" : 2
+    },
+    "\/dev\/orange-sweatshorts.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/orange-sweatshorts.html",
+      "oF" : 2
+    },
+    "\/dev\/pink-hoodie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/pink-hoodie.html",
+      "oF" : 2
+    },
+    "\/dev\/pink-sweatpants.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/pink-sweatpants.html",
+      "oF" : 2
+    },
+    "\/dev\/pink-sweatshorts.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/pink-sweatshorts.html",
+      "oF" : 2
     },
     "\/dev\/scss\/about-sections\/_contact.scss" : {
       "aP" : 0,
