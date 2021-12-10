@@ -1111,21 +1111,22 @@ footer > div ul li a:visited:active {
   justify-content: center;
   padding: 80px 0px 80px 0px;
 }
-#content div {
+#content > div {
   width: 80vw;
 }
-#content div :nth-child(10) {
+#content > div :nth-child(10) {
   margin-bottom: 0px;
 }
-#content div :last-child {
+#content > div :last-child {
   margin-bottom: 0px;
 }
-#content div img {
-  height: 350px;
-  width: 350px;
-  margin: 50px 0px 50px 0px;
+#content > div #image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px 0px;
 }
-#content div p {
+#content > div p {
   margin-bottom: 18px;
 }
 
