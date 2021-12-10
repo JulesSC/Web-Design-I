@@ -517,25 +517,21 @@ header {
   width: 100%;
 }
 header > div {
-  display: grid;
-  grid-template-columns: 40% auto;
-  padding: 25px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 10%;
 }
 header > div a {
   font-size: 0.875rem;
   font-family: "PP Migra";
 }
+header > div a i {
+  font-size: 1.25rem;
+}
 header > div a:link,
 header > div a:visited {
   color: #000;
-}
-header > div button {
-  margin-left: auto;
-  border: none;
-  background-color: transparent;
-}
-header > div button i {
-  font-size: 1.25rem;
 }
 
 /* =============

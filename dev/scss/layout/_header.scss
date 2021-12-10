@@ -9,28 +9,23 @@ header{
     width: 100%;
 
     >div{
-        display: grid;
-        grid-template-columns: 40% auto;
-        padding: 25px 16px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 25px 10%;
 
         a{
             font-size: rem-calc(14px);
             font-family: 'PP Migra';
+            
+            i{
+                font-size: rem-calc(20px);
+            }
         }
 
         a:link,
         a:visited {
             color: $black;
-        }
-
-        button{
-            margin-left: auto;
-            border: none;
-            background-color: transparent;
-
-            i{
-                font-size: rem-calc(20px);
-            }
         }
     }
 }
